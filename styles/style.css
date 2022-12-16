@@ -1,0 +1,192 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+}
+* body{
+    background-image: url("./../img/hereo_img.png");
+    width: 100%;
+    height: 10%;
+
+
+}
+
+* nav {
+    width: 100%;
+    display: flex;
+    background-color: rgb(191, 100, 21);
+    color: white;
+}
+
+* nav a {
+    width: 20%;
+}
+
+#logo {
+    width: 17%;
+    padding: 2%;
+}
+
+#navBar {
+    width: 79%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1%;
+}
+
+#navBar ul {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#navBar ul li {
+    font-size: 1.5rem;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+
+#navBar ul li a {
+    text-decoration: none;
+    color: white;
+}
+#navBar ul li input{
+    width: auto;
+    padding: 2%;
+}
+
+* main {
+    width: 60%;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 1%;
+    margin: 3% 20% 0% 20%;
+    background-color: rgb(2, 64, 89);
+    border-radius: 1%;
+}
+
+#contenedorProductos{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.cardProduct{
+    width: 29%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1%;
+    text-align: center;
+    justify-content: center;
+    background-color: white;
+    border-radius: 5%;
+}
+
+#cardImg{
+    width: 70%;
+    margin-top: 3%;
+    margin-bottom: 5%;
+    padding: 1%;
+}
+
+#wineName {
+    font-size: 1.3rem;
+    color: rgb(2, 64, 89);
+    margin-bottom: 5%;
+}
+
+#winePrice {
+    font-size: 1.8rem;
+    color: rgb(2, 64, 89);
+    margin-bottom: 5%;
+}
+
+.buttonEvent {
+    width: 80%;
+    margin-bottom: 5%;
+    font-size: 1rem;
+    padding: 1%;
+}
+
+#cart {
+    width: 60%;
+    min-height: 10rem;
+    border: 0.2rem solid black;
+    margin: 5% 0% 5% 3%;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cartItem { 
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+.cartImg {
+    max-width: 30%;
+    max-height: 30%;
+    height: auto;
+    width: auto;
+    margin: 2% 5% 2% 1%;
+}
+.cartProduct {
+    width: auto;
+    font-size: 1rem;
+    margin: 2% 5% 2% 1%;
+    color: rgb(2, 64, 89);
+}
+.cartUnit {
+    width: auto;
+    font-size: 1rem;
+    margin: 2% 5% 2% 1%;
+    color: rgb(2, 64, 89);
+}
+.cartSubTotal {
+    width: auto;
+    font-size: 1rem;
+    margin: 2% 5% 2% 1%;
+    color: rgb(2, 64, 89);
+}
+
+#w60{
+    width: 60%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#buyBtn {
+    width: auto;
+    font-size: auto;
+    text-align: center;
+    border-radius: 5%;
+    padding: 0.5%;
+    margin: 0% 2% 5% 0%;
+    
+}
+#cleanCart {
+    width: auto;
+    font-size: auto;
+    text-align: center;
+    border-radius: 5%;
+    padding: 0.5%;
+    margin-bottom: 5%;
+}
+
+.styleToastify{
+    width: auto;
+    font-size: 1rem;
+}
+
+.alert{
+    display: flex;
+}
+
+.swal-button {
+    border-radius: 2px;
+    width: 50%;
+    margin-right: 25%;
+}

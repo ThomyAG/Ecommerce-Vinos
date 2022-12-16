@@ -1,0 +1,14 @@
+[
+    {"id": 1, "nombre": "FINCA LOS NOBLES MALBEC PETIT VERDOT", "bodega": "Luigi Bosca", "tipo": "tinto", "precio": 10900, "stock": true, "imgUrl":"https://vinotecamomentos.com.ar/wp-content/uploads/2021/11/Y-La-Nave-Va-300x300.jpg" },
+    {"id": 2, "nombre": "SUSANA BALBO NOSOTROS", "bodega": "Susana Balbo Wines", "tipo": "tinto", "precio": 29950, "stock": true, "imgUrl":"https://vinotecamomentos.com.ar/wp-content/uploads/2020/03/plantilla-fotos-vinos-7.jpg"},
+    {"id": 3, "nombre": "VIÑA COBOS VINCULUM MALBEC", "bodega": "Viña Cobos", "tipo": "tinto", "precio": 13500, "stock": true, "imgUrl":"https://vinotecamomentos.com.ar/wp-content/uploads/2021/11/Vinculum.jpg"},
+    {"id": 4, "nombre": "PULENTA GRAN CABERNET FRANC", "bodega": "Pulenta Estate", "tipo": "tinto", "precio": 12400, "stock": true, "imgUrl":"https://vinotecamomentos.com.ar/wp-content/uploads/2019/05/Pulenta-GCFR.jpg"},
+    {"id": 5, "nombre": "AMAUTA DULCE NATURAL", "bodega": "El Porvenir de Cafayate", "tipo": "blanco", "precio": 2200, "stock": true, "imgUrl":"https://vinotecamomentos.com.ar/wp-content/uploads/2020/05/Amauta-Dulce-Natural.jpg"},
+    {"id": 6, "nombre": "PEQUEÑAS PRODUCCIONES CHARDONNAY", "bodega": "Escorihuela Gascon", "tipo": "blanco", "precio": 5200, "stock": true, "imgUrl":"https://vinotecamomentos.com.ar/wp-content/uploads/2019/04/PP-Chardonnay.jpg"},
+    {"id": 7, "nombre": "EXPLORACION CASABLANCA", "bodega": "Viña las Perdices", "tipo": "blanco", "precio": 3600, "stock": true, "imgUrl":"https://vinotecamomentos.com.ar/wp-content/uploads/2019/07/Las-Perdices-Exploracion.jpg"},
+    {"id": 8, "nombre": "LE PETIT VOYAGE BLEND DE BLANCAS", "bodega": "MundoRevés", "tipo": "blanco", "precio": 3300, "stock": true, "imgUrl":"https://vinotecamomentos.com.ar/wp-content/uploads/2022/08/Le-Petit-Voyage-Blanco.jpg"},
+    {"id": 9, "nombre": "ALMA NEGRA ESPUMANTE ROSADO", "bodega": "Ernesto Catena", "tipo": "espumante", "precio": 4600, "stock": true, "imgUrl":"https://vinotecamomentos.com.ar/wp-content/uploads/2019/05/Alma-Negra-BN.jpg"},
+    {"id": 10, "nombre": "BOHÉME BRUT NATURE", "bodega": "Luigi Bosca", "tipo":"espumante", "precio": 7100, "stock": true, "imgUrl":"https://vinotecamomentos.com.ar/wp-content/uploads/2019/04/Boheme.jpg"},
+    {"id": 11, "nombre": "BARON B EXTRA BRUT", "bodega": "Chandon", "tipo": "espumante", "precio": 5200, "stock": true, "imgUrl":"https://vinotecamomentos.com.ar/wp-content/uploads/2019/04/Baron-B.jpg"},
+    {"id": 12, "nombre": "RUTINI EXTRA BRUT", "bodega": "La Rural", "tipo": "espumante", "precio": 5860, "stock": true, "imgUrl":"https://vinotecamomentos.com.ar/wp-content/uploads/2019/04/Rutini-EBR.jpg"}
+]
